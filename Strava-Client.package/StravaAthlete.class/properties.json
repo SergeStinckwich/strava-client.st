@@ -1,0 +1,15 @@
+{
+	"category" : "Strava-Client",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"lastName",
+		"firstName" ],
+	"name" : "StravaAthlete",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"example" : "SergeStinckwich 3/16/2015 23:11",
+		"fromAccessTokenID:" : "SergeStinckwich 1/14/2015 16:47",
+		"myPrivateToken" : "SergeStinckwich 3/16/2015 23:12" },
+	"instance" : {
+		"accessToken:" : "SergeStinckwich 1/14/2015 16:48",
+		"getAthleteWithID:" : "SergeStinckwich 3/16/2015 15:51",
+		"getCurrentAthlete" : "SergeStinckwich 3/16/2015 15:51" } }

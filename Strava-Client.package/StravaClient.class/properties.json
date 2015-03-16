@@ -1,0 +1,14 @@
+{
+	"category" : "Strava-Client",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"accessToken" ],
+	"name" : "StravaClient",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
