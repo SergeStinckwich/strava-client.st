@@ -1,6 +1,6 @@
 examples
 example
 	| client athlete |
-	client := StravaClient new accessToken: self myPrivateToken.
+	client := StravaClient new accessToken: StravaClient myPrivateToken.
 	athlete := client getCurrentAthlete.
 	athlete firstName
