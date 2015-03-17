@@ -1,4 +1,4 @@
-as yet unclassified
+examples
 example
 	| client athlete |
 	client := StravaClient new accessToken: self myPrivateToken.
